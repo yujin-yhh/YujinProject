@@ -22,4 +22,14 @@
 ##模块化定义XuZhu类，继承于TongLao类  
 ./second_practice/task_two_class_define_XuZhu.py  
 ##实例化TongLao和XuZhu及实例化  
-./second_practice/task_two_practice_fight  
+./second_practice/task_two_practice_fight
+
+##pytest 实战1作业
+##定义的加法方法  
+./pytest_practice_one/addition.py  
+##定义的除法方法  
+./pytest_practice_one/division.py  
+##测试用例  
+./pytest_practice_one/test_div_and_add.py  
+##包含除法和加法测试数据的yaml文件
+./pytest_practice_one/datas/data.yml
