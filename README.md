@@ -1,3 +1,17 @@
+##pytest实战作业2  
+##测试用例文件
+./pytest_practice_two/test_cal.py  
+##pytest.ini文件  
+./pytest_practice_two/pytest.ini  
+##conftest文件  
+./pytest_practice_two/conftest.py  
+##计算器方法代码  
+./pytest_practice_two/calculator.py    
+##数据文件  
+./pytest_practice_two/datas/data/yml  
+
+
+
 ##第一次作业路径：
 ./first_practice
 
