@@ -15,7 +15,7 @@ class TestWorkWeiXin:
         desire_cap["noReset"] = "true"
         desire_cap["settings[waitForIdleTimeout"] = 0
         self.driver = webdriver.Remote("http://127.0.0.1:4723/wd/hub", desire_cap)
-        self.driver.implicitly_wait(10)
+        self.driver.implicitly_wait(3)
 
     def teardown(self):
         self.driver.quit()
