@@ -1,0 +1,6 @@
+add:
+  - ["testname003","男","13600000005"]
+  - ["testname004","女","13600000006"]
+del:
+  - "testname003"
+  - "testname004"

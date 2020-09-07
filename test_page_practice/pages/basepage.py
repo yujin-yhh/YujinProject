@@ -7,7 +7,6 @@ from selenium.webdriver.support.wait import WebDriverWait
 
 class Base:
     _base_url = ""
-
     def __init__(self, driver_base=None):
         # 避免driver被重复初始化
         if driver_base is None:
